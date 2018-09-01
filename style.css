@@ -1,0 +1,58 @@
+::-webkit-scrollbar { /*  Hidden Scrollbar Chrome  */
+   width: 0px;
+}
+/*  Выделенный пользователем текст  */
+::selection {  
+   background: #2F73E9;
+   color: #FFFFFF;
+}
+
+
+
+html {
+   font-family: Google Sans;
+   color: rgba(0, 0, 0, 0.84);
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400; 
+      line-height: 1.2; 
+      
+   background: #f0f0f0;   /* f0f0f0 */
+   width: 100%;
+      min-width: 320px;
+      max-width: 1440px;
+   margin: 0px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+   padding: 0px;
+      padding-top: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+}
+
+body {
+   font-family: Google Sans;
+   color: rgba(255, 255, 255, 0.84);
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400; 
+      line-height: 1.2; 
+      
+   background: #202020;
+   width: 100%;
+      min-width: 320px;
+      max-width: 1440px;
+   margin: 0px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+   padding: 0px;
+      padding-top: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+}
